@@ -60,7 +60,7 @@
     "markdown-it-attrs": "^4.3.0",
     "markdown-it-container": "^3.0.0",
     "markdown-it-ins": "^3.0.1",
-    "markdown-it-kbd": "^2.2.2",
+    "markdown-it-kbd": "^3.0.2",
     "markdown-it-mark": "^3.0.1",
     "marked": "^11.1.0",
     "minisearch": "^7.2.0",
