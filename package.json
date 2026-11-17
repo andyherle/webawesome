@@ -83,7 +83,7 @@
     "uuid": "^9.0.1"
   },
   "overrides": {
-    "playwright": "^1.64.1",
+    "playwright": "$playwright",
     "axe-core": "^4.11.4",
     "esbuild": "$esbuild"
   },
